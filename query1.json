@@ -1,0 +1,6 @@
+{
+  "query":"Unsupervised Learning",
+  "count":10,
+  "filter":"enriched_text.concepts.text:clustering",
+  "return":"title,price"
+}

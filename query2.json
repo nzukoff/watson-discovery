@@ -1,0 +1,6 @@
+{
+  "query":"Unsupervised Learning",
+  "filter":"enriched_text.docSentiment.type:negative",
+  "aggregation":"term(title)",
+  "return":"title,price"
+}

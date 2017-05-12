@@ -1,0 +1,5 @@
+{
+  "query":"clustering",
+  "filter":"enriched_text.docSentiment.type:positive,enriched_text.docSentiment.score>.80",
+  "return":"title,price"
+}
